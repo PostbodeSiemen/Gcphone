@@ -8,6 +8,7 @@ Functions:
 -Politie, Ambulance, Wegenwacht en Taxi nummers.
 -Complete Nederlandse vertaling.
 -Customized app_pictures.
+\
 
 THIS SCRIPT CANNOT BE SOLD OR DUPLICATED.
 Support: https://discord.gg/xwAcM3g
